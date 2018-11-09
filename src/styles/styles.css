@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+body{
+  font-family: 'Playfair Display', serif;
+}
+
+
+nav a {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    font-size: 18px;
+    
+  }
+  nav a img {
+      height: 65px;
+      width: 65px;
+  }
+  nav .navbar-toggle {
+    margin: 13px 15px 13px 0;
+  }
+  .navbar-brand {
+    font-size: 30px;
+  }
+  nav.navbar.shrink {
+    min-height: 35px;
+  }
+  nav.shrink a {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    font-size: 15px;
+  }
+  nav.shrink a img {
+      height: 45px;
+      width: 45px;
+  }
+  nav.shrink .navbar-brand {
+    font-size: 25px;
+  }
+  nav.shrink .navbar-toggle {
+    padding: 4px 5px;
+    margin: 8px 15px 8px 0;
+  } 
+  /* making sticky on scroll */
+  .sticky.is-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    /* width: 100%; */
+  }
+  .dropdown-menu{
+      left: -30px;
+      top: 65px;
+    }
+  /* end making */
+  .jumbotron{
+    background: transparent;
+  }
+  .jumbotron h1, .jumbotron p, .footerarea div h4, .footerarea div h6 {
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 1px rgba(0,0,0,0.2);
+  }
+  .herosection{
+    background-image: linear-gradient(-18deg, #2657eb 0%, #de6161 100%);
+  }
+  .developsec{
+    margin-top: -60px;
+  }
+  .card-group, .cardshadow{
+    box-shadow: 0px 6px 17px -8px rgba(0,0,0,0.42);
+  }
+  .card-body h5, .card-body p, fontPD{
+    font-family: 'Playfair Display', serif;
+  }
+  .imghtml5 {
+    margin-top: -250px;
+    filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.3));   
+}
+.footerarea div p {
+  font-family: 'Playfair Display', serif;
+  font-size: 14px; 
+}
+.copyright{
+  font-size: 11px;
+}
+.shadow{
+  -webkit-box-shadow: 0px 6px 17px -8px rgba(0,0,0,0.42);
+-moz-box-shadow: 0px 6px 17px -8px rgba(0,0,0,0.42);
+box-shadow: 0px 6px 17px -8px rgba(0,0,0,0.42);
+}
+.profilep{
+  font-size: 14px;
+}
+
+  
