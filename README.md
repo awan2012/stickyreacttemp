@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Custom libraries are mentioned below which we used in CLI<br>
 
+Project Demo in Action on Heroku (https://stickyreacttemp.herokuapp.com).
+
 ## Table of Contents
 
 #### 1. Twitter Bootstrap 4.0.0
